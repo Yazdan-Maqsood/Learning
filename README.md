@@ -1,4 +1,4 @@
 # Learning-Demo
-It's my first GIT repository for learning.
+It's my first GIT repository .I am learning the different technologies of Development.
 <br/>
-Author - Yazdan
+Author - Yazdan Maqsood
